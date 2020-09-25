@@ -1,0 +1,31 @@
+    
+    h1{
+        text-align: Center;
+        color:indigo;  
+        }
+    #Hello{
+        text-align: center;
+        color: lightcoral; 
+               }          
+     h2.center{
+         text-align: center;
+         color:mediumorchid;
+
+     }  
+
+     h2
+
+     {
+         background-color: brown;
+     }
+     div >p{
+         background-color: darkmagenta;
+     }
+    div+h3
+    {
+    background-color: chartreuse;    
+    }
+
+    div~p,h3,h5{
+        background-color: darkolivegreen;
+    }
